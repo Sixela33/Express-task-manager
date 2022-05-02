@@ -10,6 +10,3 @@ const connectDB = (url) => {
 }
 
 module.exports = connectDB
-
-// sixela
-// Hl9NLQwTBksIfpqW 
