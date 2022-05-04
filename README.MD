@@ -1,4 +1,4 @@
-# Task MAnager App
+# Task Manager App
 
 ## Use
 
